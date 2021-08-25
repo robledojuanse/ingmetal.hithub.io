@@ -55,6 +55,15 @@ mark {
 	color: inherit;
 }
 
+.menucustm{
+	margin-top: 30px
+}
+
+.fontphone{
+	font-size: 20px;
+	padding-right: 10px;
+  }
+
 input::-moz-focus-inner {
 	border: 0;
 	padding: 0;
@@ -116,6 +125,11 @@ input, select, textarea {
 		font-size: 14pt;
 		font-weight: 400;
 		line-height: 1.75;
+	}
+
+	.gifstyle{
+		width: 80%; margin-left: 3%;
+
 	}
 
 		@media screen and (max-width: 1680px) {
@@ -3430,7 +3444,7 @@ input, select, textarea {
 		#intro .logo img {
 			display: block;
 			margin-left: -0.25em;
-			width: 9.5em;
+			width: 10.5em;
 		}
 
 	#intro header h2 {
@@ -3601,4 +3615,27 @@ input, select, textarea {
 				padding: 1.5em;
 			}
 
+			.menucustm{
+				margin-top: 50px
+			}
+
+			.fontphone{
+				margin-top:10px;
+			  font-size: 10px;
+			  
+			}
+
+			.margenizquierdacorreo
+			{
+				margin-right: 10px;
+			}
+
+			.gifstyle{
+				width: 80%; margin-left: -13px;
+
+			}
+
+	
+
+		
 		}
